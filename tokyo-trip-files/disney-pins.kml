@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>도쿄 디즈니랜드 · 우리 가족 핀 (2027.2.27)</name>
+<description>좌표: OpenStreetMap 기여자(ODbL). 번호는 공식 가이드맵 번호. P1–P6은 공주 프리 그리팅 출몰 장소(castel.jp 정리, 시간 비공개).</description>
+<Style id="s-pink"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle></Style>
+<Style id="s-blu"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle></Style>
+<Style id="s-ylw"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle></Style>
+<Style id="s-grn"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle></Style>
+<Folder><name>공주</name>
+<Placemark><name>P1 신데렐라 성 앞 광장 (공주 출몰)</name><description>신데렐라·백설공주·오로라·벨·라푼젤 · 좌표는 성 위치, 광장은 성 바로 앞(월드바자 쪽)</description><styleUrl>#s-pink</styleUrl><Point><coordinates>139.880836,35.632078,0</coordinates></Point></Placemark>
+<Placemark><name>P2 혼티드 맨션 입구 옆 (공주 출몰)</name><description>판타지랜드 · 지도 83</description><styleUrl>#s-pink</styleUrl><Point><coordinates>139.882140,35.630551,0</coordinates></Point></Placemark>
+<Placemark><name>P3 월드바자 메인스트리트 상점 앞 (공주 출몰)</name><description>지도 1–22 구역</description><styleUrl>#s-pink</styleUrl><Point><coordinates>139.879586,35.634322,0</coordinates></Point></Placemark>
+<Placemark><name>P4 이스트사이드 카페 지나서 (공주 출몰)</name><description>월드바자 십자로 왼쪽 · 지도 17</description><styleUrl>#s-pink</styleUrl><Point><coordinates>139.880145,35.634558,0</coordinates></Point></Placemark>
+<Placemark><name>P5 메인 엔트런스 화단 앞 (공주 출몰)</name><description>다른 캐릭터도 많이 나옴</description><styleUrl>#s-pink</styleUrl><Point><coordinates>139.878536,35.635203,0</coordinates></Point></Placemark>
+<Placemark><name>P6 라케티의 라쿤 살롱 근처 (포카혼타스)</name><description>크리터 컨트리 · 지도 72 · 등장 확률 낮음</description><styleUrl>#s-pink</styleUrl><Point><coordinates>139.883435,35.630476,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>아이 추천</name>
+<Placemark><name>82 푸의 허니헌트</name><description>DPA · 어두운 구간 주의</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.880537,35.630211,0</coordinates></Point></Placemark>
+<Placemark><name>80 미녀와 야수 &#x27;마법 이야기&#x27;</name><description>DPA 1순위 · 키 제한 없음</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.877889,35.630451,0</coordinates></Point></Placemark>
+<Placemark><name>74 잇츠 어 스몰월드</name><description>◎ 아이가 두 번 탄 곳</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.881241,35.630446,0</coordinates></Point></Placemark>
+<Placemark><name>75 캐슬 캐러셀</name><description>회전목마</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.881256,35.631386,0</coordinates></Point></Placemark>
+<Placemark><name>84 미키의 필하매직 (3D)</name><description>◎</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.880641,35.631495,0</coordinates></Point></Placemark>
+<Placemark><name>121 몬스터 주식회사 라이드&amp;고 시크</name><description>◎ DPA</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.878358,35.633959,0</coordinates></Point></Placemark>
+<Placemark><name>120 베이맥스의 해피 라이드</name><description>81cm 이상 · DPA</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.878838,35.631700,0</coordinates></Point></Placemark>
+<Placemark><name>102 가젯의 고 코스터</name><description>90cm 이상</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.878697,35.630553,0</coordinates></Point></Placemark>
+<Placemark><name>103 구피의 페인트&amp;플레이 하우스</name><description>툰타운</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.879193,35.630473,0</coordinates></Point></Placemark>
+<Placemark><name>108 로저래빗의 카툰스핀</name><description>툰타운</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.880167,35.629561,0</coordinates></Point></Placemark>
+<Placemark><name>107 미니의 집</name><description>툰타운</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.879004,35.630056,0</coordinates></Point></Placemark>
+<Placemark><name>109 미키의 집과 미트 미키</name><description>미키 그리팅</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.878599,35.630249,0</coordinates></Point></Placemark>
+<Placemark><name>110 미니의 스타일 스튜디오</name><description>미니 그리팅</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.879412,35.630726,0</coordinates></Point></Placemark>
+<Placemark><name>23 웨스턴 리버 철도 (역)</name><description>◎ 공룡 · 아이 최애</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.882385,35.633718,0</coordinates></Point></Placemark>
+<Placemark><name>25 정글 크루즈</name><description>◎</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.882407,35.633952,0</coordinates></Point></Placemark>
+<Placemark><name>51 증기선 마크 트웨인호</name><description>◎</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.882966,35.631620,0</coordinates></Point></Placemark>
+<Placemark><name>1 옴니버스 (정류장)</name><description>낮잠 재우기용</description><styleUrl>#s-blu</styleUrl><Point><coordinates>139.879695,35.633012,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>식당·간식</name>
+<Placemark><name>115 휴이·듀이·루이의 굿타임 카페</name><description>12:00 점심 · 모바일 오더</description><styleUrl>#s-ylw</styleUrl><Point><coordinates>139.879328,35.630117,0</coordinates></Point></Placemark>
+<Placemark><name>20 센터 스트리트 커피하우스</name><description>17:30 저녁 · 사전 예약</description><styleUrl>#s-ylw</styleUrl><Point><coordinates>139.879131,35.634203,0</coordinates></Point></Placemark>
+<Placemark><name>18 그레이트 아메리칸 와플컴퍼니</name><description>미키 와플 · 모바일 오더 전용</description><styleUrl>#s-ylw</styleUrl><Point><coordinates>139.880228,35.634283,0</coordinates></Point></Placemark>
+<Placemark><name>65 헝그리 베어 레스토랑</name><description>카레·돈카츠</description><styleUrl>#s-ylw</styleUrl><Point><coordinates>139.882920,35.632593,0</coordinates></Point></Placemark>
+<Placemark><name>95 퀸 오브 하트의 뱅킷 홀</name><description>함박 · 줄 서기</description><styleUrl>#s-ylw</styleUrl><Point><coordinates>139.881387,35.630912,0</coordinates></Point></Placemark>
+<Placemark><name>130 빅 팝</name><description>팝콘 버킷</description><styleUrl>#s-ylw</styleUrl><Point><coordinates>139.879259,35.631518,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>편의시설</name>
+<Placemark><name>11 비비디 바비디 부티크</name><description>공주 변신 살롱 · 사전 예약제</description><styleUrl>#s-grn</styleUrl><Point><coordinates>139.879266,35.634045,0</coordinates></Point></Placemark>
+<Placemark><name>BC 베이비센터 (월드바자)</name><description>기저귀·이유식 판매</description><styleUrl>#s-grn</styleUrl><Point><coordinates>139.878763,35.634138,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>
